@@ -1,0 +1,5 @@
+[INFO] 2025-01-10 Aplicación iniciada correctamente
+[WARNING] 2025-01-11 Memoria casi llena
+[ERROR] 2025-01-12 Error al conectar con el servidor
+[DEBUG] 2025-01-13 Modo de depuración activado
+[ERROR] Fecha-invalida Error de conexión
